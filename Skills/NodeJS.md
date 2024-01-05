@@ -28,8 +28,8 @@
   - Coupling and cohesion👂 heard
   - Framework agnostic approach👂 heard
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments👂 heard
+  - Node.js CLI👂 heard
   - Process-based permissions🎓 known
   - Graceful shutdown👂 heard
   - Clustering👂 heard
@@ -142,8 +142,8 @@
   - error.cause🎓 known
   - error.code🎓 known
   - error.message🎓 known
-  - error.stack🎓 known
-  - How to avoid mixins🎓 known
+  - error.stack👂 heard
+  - How to avoid mixins👂 heard
   - Error.captureStackTrace👂 heard
   - Uncaught exceptions👂 heard
   - Heap dump👂 heard
@@ -153,8 +153,8 @@
   - Resource leaks👂 heard
   - Data race👂 heard
 - Integrations and bindings
-  - Native addons🎓 known
-  - C and C++ addons🎓 known
+  - Native addons👂 heard
+  - C and C++ addons👂 heard
   - Rust addons👂 heard
   - Zig addons👂 heard
   - NAN (Native Abstractions for Node.js)👂 heard
